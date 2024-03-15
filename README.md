@@ -1,7 +1,7 @@
-Nume: Vărzaru Vlad-Ionuț 
-Grupa: 331CD
+# Tema 2 APD - Planificarea de task-uri intr-un datacenter
 
-Tema 2 APD - Planificarea de task-uri intr-un datacenter
+- Nume: Vărzaru Vlad-Ionuț 
+- Grupa: 331CD
 
 In cadrul acestei teme am avut de implementat componentele de dispatcher si de 
 noduri de calcul din sistemul de planificare.
